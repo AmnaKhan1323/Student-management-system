@@ -9,7 +9,7 @@ It is a simple Python GUI built with Tkinter and MongoDB backend.
 ## Usage
  Clone the repository :
 ```
-$ git clone https://github.com/Dipali742/Student-Management-System.git
+$ git clone https://github.com/AmnaKhan1323/Student-Management-System.git
 ```
  Install Dependencies :
 ```
