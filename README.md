@@ -1,28 +1,26 @@
-# Student Management System
+# 🎓 Student Management System
 
-It is a simple Python GUI built with Tkinter and MongoDB backend.
+A Python desktop application for managing student records — supporting core CRUD operations for student data with a simple graphical interface.
 
-## Prerequisites
-- Python 2.7
-- MongoDB 4.4
+## ✨ Features
 
-## Usage
- Clone the repository :
+- Add, view, update, and delete student records
+- Simple GUI for interacting with student data (see `Screenshots`)
+- Lightweight, dependency-light Python implementation
+
+## 🧰 Tech Stack
+
+Python
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/AmnaKhan1323/Student-management-system.git
+cd Student-management-system
+pip install -r requirements.txt
+python App.py
 ```
-$ git clone https://github.com/AmnaKhan1323/Student-Management-System.git
-```
- Install Dependencies :
-```
-$ pip install -r ./requirements.txt
-```
- Start MongoDB server and run the code :
-```
-$ mongod
-$ python App.py
-```
 
+## 📋 License
 
-
-
-
-
+Open source under the [MIT License](LICENSE).
